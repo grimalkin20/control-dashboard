@@ -70,12 +70,12 @@ A comprehensive admin panel built with PHP, HTML, CSS, JavaScript, and MySQL for
 1. **Clone/Download the Project**
    ```bash
    # Place the project in your WAMP www directory
-   # Example: C:\wamp64\www\admin-panel\
+   # Example: C:\wamp64\www\control-dashboard\
    ```
 
 2. **Database Setup**
    - Open phpMyAdmin (http://localhost/phpmyadmin)
-   - Create a new database named `admin_panel`
+   - Create a new database named `control-dashboard`
    - Import the SQL file: `setup/database.sql`
 
 3. **Configuration**
@@ -92,7 +92,7 @@ A comprehensive admin panel built with PHP, HTML, CSS, JavaScript, and MySQL for
 
 5. **Access the Admin Panel**
    - Open your browser
-   - Navigate to: `http://localhost/admin-panel/`
+   - Navigate to: `http://localhost/control-dashboard/`
    - Default login credentials:
      - Username: `admin`
      - Password: `password`
